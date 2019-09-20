@@ -1,0 +1,39 @@
+slots:
+  phone_number:
+    type: text
+  name:
+    type: text
+  address:
+    type: text
+  locations:
+    type: text
+
+entities:
+  - phone_number
+  - name
+  - address
+  - locations
+
+intents:
+  - greet
+  - inform
+
+actions:
+- utter_greet_ask_name
+- utter_ask_phone_number
+- utter_goodbye
+- utter_ask_address
+- action_show
+
+templates:
+  utter_greet_ask_name:
+  - text: "xin chào! tên của bạn là gì nhỉ?"
+  
+  utter_ask_phone_number:
+  - text: "số điện thoại của bạn?"
+
+  utter_goodbye:
+  - text: "ok tôi đã có thông tin của bạn tên: {name}, số  điện thoại: {phone_number}, địa chỉ: {address} vị trí: {locations}"
+
+  utter_ask_address:
+  - text: "địa chỉ của bạn là gì?"
