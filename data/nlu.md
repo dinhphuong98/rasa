@@ -8,8 +8,8 @@
 - số điện thoại của mk là [0962882084](phone_number)
 - sđt [0363733398](phone_number)
 - tên của mình là [nguyễn đình phương](name)
-- mình tên là [lê phương dung](name)
-- [nguyễn thị phương](name)
+- mình tên là [Nguyễn Văn B](name)
+- [Bành Thị La](name)
 - [0333580303](phone_number), đây là sđt của mình
 - địa chỉ là [124 trần đại nghĩa](address), ngay sau bưu điện [hà nội](locations)
 - mình ở [124 hoàng quốc việt](address)
